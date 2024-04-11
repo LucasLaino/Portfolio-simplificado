@@ -100,13 +100,21 @@ body {
 }
 
 .home .container-foto .foto {
-  max-width: 450px;
-  border: 2px solid #fff;
+  width: 450px;
+  height: 450px;
   border-radius: 50%;
+  border: 2px solid #fff;
+  overflow: hidden;
+  display: flex ;
+  justify-content: center;
+  align-items: center;
 }
 
 .home .container-foto img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
   border-radius: 50%;
 }
 
