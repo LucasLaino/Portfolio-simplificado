@@ -7,7 +7,7 @@ O projeto é um site com algumas informações sobre mim e projetos pessoais, ta
 ## 🔗 Deploy do site
 Clique no gif para acessar o site.👇🏻
 
-[<img src="./tela-site-portifolio.gif" alt="tela do projeto site portifólio">](<a href="https://lucaslaino.github.io/portfolio-simplificado/" target="_blank">)
+[<img src="./tela-site-portifolio.gif" alt="tela do projeto site portifólio">](https://lucaslaino.github.io/portfolio-simplificado/)
 
 ## 🤖 Tecnologias usadas
 - HTML: Para estrutura do site;
